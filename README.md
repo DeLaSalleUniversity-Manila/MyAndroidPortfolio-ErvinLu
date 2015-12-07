@@ -32,7 +32,7 @@ A collection of basic Android exercises
 28. **OpenCV 3.0 Camera Preview Example** (https://github.com/DeLaSalleUniversity-Manila/opencvcamerapreviewsample-ErvinLu)
 29. **OpenCV 3.0 15-Tile Camera Puzzle** (https://github.com/DeLaSalleUniversity-Manila/opencvtilepuzzledemo-ErvinLu)
 30. **Image Local Binary Pattern** (https://github.com/DeLaSalleUniversity-Manila/imagelocalbinarypattern-ErvinLu)
-31. **OpenCV 3.0 Mixed-Signal Processing**   
+31. **OpenCV 3.0 Mixed-Signal Processing** (https://github.com/DeLaSalleUniversity-Manila/opencvmixedsignalprocessing-ErvinLu)  
 32. **OpenCV 3.0 Face Detection Sample** 
 33. **OpenCV 3.0 Image Manipulations** (https://github.com/DeLaSalleUniversity-Manila/opencvimagemanipulations-ErvinLu)
 34. **Get Current Location and Place a Marker** (https://github.com/DeLaSalleUniversity-Manila/getcurrentlocation-ErvinLu)
