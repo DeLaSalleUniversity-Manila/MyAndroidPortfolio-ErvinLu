@@ -38,7 +38,7 @@ A collection of basic Android exercises
 34. **Get Current Location and Place a Marker** (https://github.com/DeLaSalleUniversity-Manila/getcurrentlocation-ErvinLu)
 35. **Get Neighboring Hospitals** (https://github.com/DeLaSalleUniversity-Manila/getneighboringhospitals-ErvinLu)
 36. **OpenCV 3.0 Color Blob Detection Sample** (https://github.com/DeLaSalleUniversity-Manila/colorblobdetection-ErvinLu)
-37. **Android Native Camera Access with Native OpenCV Processing through JNI** 
+37. **Android Native Camera Access with Native OpenCV Processing through JNI** (https://github.com/DeLaSalleUniversity-Manila/androidnativecameraaccess-ErvinLu)
 38. **Android Camera Bitmap Access through JNI** 
 39. **Cat Face Detection** 
 40. **QR and Bar Code Reader** 
