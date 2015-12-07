@@ -90,7 +90,7 @@ A collection of basic Android exercises
 86. **Tesseract OCR Demo** (https://github.com/DeLaSalleUniversity-Manila/tesseractocrdemo-ErvinLu) (c/o E. Lu and G. Limqueco)
 87. **CMT Tracker with AKAZE Features** 
 88. **CMT Tracker with ORB Features** 
-89. **San Angeles** 
+89. **San Angeles** (https://github.com/DeLaSalleUniversity-Manila/sanangeles-ErvinLu)
 90. **OpenGL ES 3.0 Demo** 
 91. **2048 Game** 
 92. **Green Wall Game** 
