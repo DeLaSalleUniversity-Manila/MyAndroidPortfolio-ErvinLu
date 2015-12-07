@@ -40,7 +40,7 @@ A collection of basic Android exercises
 36. **OpenCV 3.0 Color Blob Detection Sample** (https://github.com/DeLaSalleUniversity-Manila/colorblobdetection-ErvinLu)
 37. **Android Native Camera Access with Native OpenCV Processing through JNI** (https://github.com/DeLaSalleUniversity-Manila/androidnativecameraaccess-ErvinLu)
 38. **Android Camera Bitmap Access through JNI** (https://github.com/DeLaSalleUniversity-Manila/androidcamerabitmapaccess-ErvinLu)
-39. **Cat Face Detection** 
+39. **Cat Face Detection** (https://github.com/DeLaSalleUniversity-Manila/catfacedetection-ErvinLu)
 40. **QR and Bar Code Reader** 
 41. **OpenCV 3.0 Camera Control** (https://github.com/DeLaSalleUniversity-Manila/opencv3-cameracontrol-ErvinLu)
 42. **OpenCV 3.0 Image Manipulations with Action Bar (using AppCompatActivity)** (https://github.com/DeLaSalleUniversity-Manila/addingactionbar-ErvinLu)
