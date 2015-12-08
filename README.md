@@ -118,7 +118,7 @@ A collection of basic Android exercises
 
 58. **Canny Edge OpenCV with Android Experimental Gradle Plugin** 
 
-59. **Color Reduction** 
+59. **Color Reduction** (https://github.com/DeLaSalleUniversity-Manila/colorreduction-ErvinLu)
 
 60. **ORB Features OpenCV with Android Experimental Gradle Plugin** 
 
