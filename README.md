@@ -46,7 +46,7 @@ A collection of basic Android exercises
 42. **OpenCV 3.0 Image Manipulations with Action Bar (using AppCompatActivity)** (https://github.com/DeLaSalleUniversity-Manila/addingactionbar-ErvinLu)
 43. **FAST Keypoints** (https://github.com/DeLaSalleUniversity-Manila/fastkeypoints-ErvinLu)
 44. **AKAZE Keypoints** (https://github.com/DeLaSalleUniversity-Manila/akazefeatures-ErvinLu)
-45. **Colored Gray** 
+45. **Colored Gray** (https://github.com/DeLaSalleUniversity-Manila/coloredgray-ErvinLu)
 46. **Twin Camera Effect** 
 47. **Range Seekbar Demo** 
 48. **Frame Difference (Motion Detect)** 
