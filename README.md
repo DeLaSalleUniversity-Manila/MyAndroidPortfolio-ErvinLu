@@ -170,7 +170,7 @@ A collection of basic Android exercises
 
 84. **Histogram of Gradients (HOG) Features** 
 
-85. **Consensus-based Matching and Tracking in Android (CMT Tracker)** 
+85. **Consensus-based Matching and Tracking in Android (CMT Tracker)** (https://github.com/DeLaSalleUniversity-Manila/consensusbasedmatchingandtracking_cmt_tracker-ErvinLu)
 
 86. **Tesseract OCR Demo** (https://github.com/DeLaSalleUniversity-Manila/tesseractocrdemo-ErvinLu) (c/o E. Lu and G. Limqueco)
 
