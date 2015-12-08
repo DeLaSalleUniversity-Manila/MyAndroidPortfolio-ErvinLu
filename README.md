@@ -51,7 +51,7 @@ A collection of basic Android exercises
 47. **Range Seekbar Demo** (https://github.com/DeLaSalleUniversity-Manila/rangebardemo-ErvinLu)
 48. **Frame Difference (Motion Detect)** (https://github.com/DeLaSalleUniversity-Manila/framedifferencesample-ErvinLu)
 49. **Pedestrian Detection** 
-50. **Voronoi Effects** 
+50. **Voronoi Effects** (https://github.com/DeLaSalleUniversity-Manila/voronoi-effects-ErvinLu)
 51. **FANN Library in Android** 
 52. **Hello JNI Sample** (https://github.com/DeLaSalleUniversity-Manila/hellojavanativeinterface-ErvinLu)
 53. **Sensor (Accelerometer) graph with OpenGL** (https://github.com/DeLaSalleUniversity-Manila/accelerometerwithopengl-ErvinLu)
