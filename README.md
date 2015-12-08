@@ -94,7 +94,7 @@ A collection of basic Android exercises
 90. **OpenGL ES 3.0 Demo** 
 91. **2048 Game** (https://github.com/DeLaSalleUniversity-Manila/2048-ErvinLu)
 92. **Green Wall Game** (https://github.com/DeLaSalleUniversity-Manila/greenwall-ErvinLu)
-93. **Octodroid** 
+93. **Octodroid** (https://github.com/DeLaSalleUniversity-Manila/octodroid-ErvinLu)
 94. **Flappy Bird (Clone)** 
 95. **9GAG (Unofficial App)** 
 96. **MP Android Chart Demo** 
