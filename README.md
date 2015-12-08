@@ -99,7 +99,7 @@ A collection of basic Android exercises
 95. **9GAG (Unofficial App)** (https://github.com/DeLaSalleUniversity-Manila/9gagunofficial-ErvinLu)
 96. **MP Android Chart Demo** (https://github.com/DeLaSalleUniversity-Manila/mpandroidchart-ErvinLu)
 97. **Puzzle Collection** 
-98. **Super Jumper** 
+98. **Super Jumper** (https://github.com/DeLaSalleUniversity-Manila/superjumper-ErvinLu)
 99. **Super Mario (Android Clone)** 
 100. **Google's Santa Tracker** 
 101. **Forkhub** 
