@@ -47,7 +47,7 @@ A collection of basic Android exercises
 43. **FAST Keypoints** (https://github.com/DeLaSalleUniversity-Manila/fastkeypoints-ErvinLu)
 44. **AKAZE Keypoints** (https://github.com/DeLaSalleUniversity-Manila/akazefeatures-ErvinLu)
 45. **Colored Gray** (https://github.com/DeLaSalleUniversity-Manila/coloredgray-ErvinLu)
-46. **Twin Camera Effect** 
+46. **Twin Camera Effect** (https://github.com/DeLaSalleUniversity-Manila/twincameraeffect-ErvinLu)
 47. **Range Seekbar Demo** 
 48. **Frame Difference (Motion Detect)** 
 49. **Pedestrian Detection** 
