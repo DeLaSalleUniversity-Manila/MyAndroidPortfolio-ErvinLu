@@ -128,7 +128,7 @@ A collection of basic Android exercises
 
 63. **OpenCV 3.0 Android Camera Calibration** (https://github.com/DeLaSalleUniversity-Manila/opencvcameracalibrationsample-ErvinLu)
 
-64. **Filter2D** 
+64. **Filter2D** (https://github.com/DeLaSalleUniversity-Manila/filter2d-ErvinLu)
 
 65. **ContoursDemo** 
 
