@@ -2,6 +2,8 @@
 
 A collection of basic Android exercises
 
+0. **Course Adviser** (https://github.com/DeLaSalleUniversity-Manila/courseadviserapp-ErvinLu)
+
 1. **Hello World App Demo** (https://github.com/DeLaSalleUniversity-Manila/androidhelloworldapp-ErvinLu)
 
 2. **Prime Number Game** (https://github.com/DeLaSalleUniversity-Manila/primenumbergame-ErvinLu)
