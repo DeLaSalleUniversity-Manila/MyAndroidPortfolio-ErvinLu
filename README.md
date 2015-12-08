@@ -180,7 +180,7 @@ A collection of basic Android exercises
 
 89. **San Angeles** (https://github.com/DeLaSalleUniversity-Manila/sanangeles-ErvinLu)
 
-90. **OpenGL ES 3.0 Demo** 
+90. **OpenGL ES 3.0 Demo** (https://github.com/DeLaSalleUniversity-Manila/opengles3-ErvinLu)
 
 91. **2048 Game** (https://github.com/DeLaSalleUniversity-Manila/2048-ErvinLu)
 
