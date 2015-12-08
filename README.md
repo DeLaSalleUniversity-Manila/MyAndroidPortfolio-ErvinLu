@@ -126,7 +126,7 @@ A collection of basic Android exercises
 
 62. **AKAZE Features OpenCV with Android Experimental Gradle Plugin** 
 
-63. **OpenCV 3.0 Android Camera Calibration** 
+63. **OpenCV 3.0 Android Camera Calibration** (https://github.com/DeLaSalleUniversity-Manila/opencvcameracalibrationsample-ErvinLu)
 
 64. **Filter2D** 
 
