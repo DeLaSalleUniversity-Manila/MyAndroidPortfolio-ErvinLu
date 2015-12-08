@@ -97,7 +97,7 @@ A collection of basic Android exercises
 93. **Octodroid** (https://github.com/DeLaSalleUniversity-Manila/octodroid-ErvinLu)
 94. **Flappy Bird (Clone)** https://github.com/DeLaSalleUniversity-Manila/flappydemo-ErvinLu
 95. **9GAG (Unofficial App)** 
-96. **MP Android Chart Demo** 
+96. **MP Android Chart Demo** (https://github.com/DeLaSalleUniversity-Manila/mpandroidchart-ErvinLu)
 97. **Puzzle Collection** 
 98. **Super Jumper** 
 99. **Super Mario (Android Clone)** 
