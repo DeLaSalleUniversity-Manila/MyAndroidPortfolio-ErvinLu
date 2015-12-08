@@ -134,7 +134,7 @@ A collection of basic Android exercises
 
 66. **Circle Detection** 
 
-67. **Playing with Transparency** 
+67. **Playing with Transparency** (https://github.com/DeLaSalleUniversity-Manila/playingwithtransparency-ErvinLu)
 
 68. **Optical Flow** 
 
