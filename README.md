@@ -96,7 +96,7 @@ A collection of basic Android exercises
 92. **Green Wall Game** (https://github.com/DeLaSalleUniversity-Manila/greenwall-ErvinLu)
 93. **Octodroid** (https://github.com/DeLaSalleUniversity-Manila/octodroid-ErvinLu)
 94. **Flappy Bird (Clone)** (https://github.com/DeLaSalleUniversity-Manila/flappydemo-ErvinLu)
-95. **9GAG (Unofficial App)** 
+95. **9GAG (Unofficial App)** (https://github.com/DeLaSalleUniversity-Manila/9gagunofficial-ErvinLu)
 96. **MP Android Chart Demo** (https://github.com/DeLaSalleUniversity-Manila/mpandroidchart-ErvinLu)
 97. **Puzzle Collection** 
 98. **Super Jumper** 
