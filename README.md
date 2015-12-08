@@ -100,6 +100,6 @@ A collection of basic Android exercises
 96. **MP Android Chart Demo** (https://github.com/DeLaSalleUniversity-Manila/mpandroidchart-ErvinLu)
 97. **Puzzle Collection** 
 98. **Super Jumper** (https://github.com/DeLaSalleUniversity-Manila/superjumper-ErvinLu)
-99. **Super Mario (Android Clone)** 
+99. **Super Mario (Android Clone)** (https://github.com/DeLaSalleUniversity-Manila/supermario-ErvinLu)
 100. **Google's Santa Tracker** 
 101. **Forkhub** 
