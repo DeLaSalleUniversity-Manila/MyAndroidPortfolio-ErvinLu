@@ -49,7 +49,7 @@ A collection of basic Android exercises
 45. **Colored Gray** (https://github.com/DeLaSalleUniversity-Manila/coloredgray-ErvinLu)
 46. **Twin Camera Effect** (https://github.com/DeLaSalleUniversity-Manila/twincameraeffect-ErvinLu)
 47. **Range Seekbar Demo** (https://github.com/DeLaSalleUniversity-Manila/rangebardemo-ErvinLu)
-48. **Frame Difference (Motion Detect)** 
+48. **Frame Difference (Motion Detect)** (https://github.com/DeLaSalleUniversity-Manila/framedifferencesample-ErvinLu)
 49. **Pedestrian Detection** 
 50. **Voronoi Effects** 
 51. **FANN Library in Android** 
